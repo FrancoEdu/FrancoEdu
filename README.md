@@ -1,6 +1,6 @@
 ## System.out.println("My Name is Eduardo!");
-- 🔭 Nowadays I work with IT Support Technician at National Energy and Materials Research Center(CNPEM)
-- 🌱 I’m currently learning Java, SpringBoot, Spring Data MongoDB, JPA / Hibernate, JavaFX and JDBC
+- 🧑‍💻 Nowadays I work with IT Support Technician at National Energy and Materials Research Center(CNPEM)
+- 💻 I’m currently learning Java, SpringBoot, Spring Data MongoDB, JPA / Hibernate, JavaFX and JDBC
 - 😄 Pronouns: He/his
 <div align="center">
   <a href="https://github.com/FrancoEdu">
