@@ -1,7 +1,10 @@
 ## System.out.println("My Name is Eduardo!");
+  ![i-07](https://user-images.githubusercontent.com/84602524/202872867-30e4865c-fb0a-4152-b35d-58f521a44d53.png)
 - 🧑‍💻 Nowadays I work with IT Support Technician at National Energy and Materials Research Center(CNPEM)
 - 💻 I’m currently learning Java, SpringBoot, Spring Data MongoDB, JPA / Hibernate, JavaFX and JDBC
-- 😄 Pronouns: He/his
+- 🎓 I’m technical degree in systems development at COTUCA - UNICAMP
+- 📒 Studying Computer Engineering at UNISAL
+- 🕊️ I love to travel, spend time with friends and family and have a great barbecue.    
 <div align="center">
   <a href="https://github.com/FrancoEdu">
   <img height="180em" src="https://github-readme-stats-anuraghazra1.vercel.app/api?username=FrancoEdu&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
