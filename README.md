@@ -1,6 +1,5 @@
 ## System.out.println("My Name is Eduardo!");
   ![i-07](https://user-images.githubusercontent.com/84602524/202872867-30e4865c-fb0a-4152-b35d-58f521a44d53.png)
-  ![snake gif](https://github.com/FrancoEdu/Franco/blob/output/github-contribution-grid-snake.gif)
 - 🧑‍💻 Nowadays I work with IT Support Technician at National Energy and Materials Research Center(CNPEM)
 - 💻 I’m currently learning Java, SpringBoot, Spring Data MongoDB, JPA / Hibernate, JavaFX and JDBC
 - 🎓 I’m technical degree in systems development at COTUCA - UNICAMP
@@ -19,12 +18,11 @@
   <img align="center" alt="Edu-SpringBoot" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-plain-wordmark.svg">
   <img align="center" alt="Edu-C++" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" />
 </div>
-  
-  ##
- 
 <div> 
   <a href="https://www.instagram.com/franc0du/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
  <a href="https://discord.com/channels/fran0du" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
   <a href = "eduardoofraanco@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/eduardo-f-9160a2164/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href="https://www.linkedin.com/in/eduardo-f-9160a2164/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 </div>
+  ##
+<div> ![snake gif](https://github.com/FrancoEdu/FrancoEdu/blob/output/github-contribution-grid-snake.gif) </div>
