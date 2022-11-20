@@ -1,5 +1,6 @@
 ## System.out.println("My Name is Eduardo!");
   ![i-07](https://user-images.githubusercontent.com/84602524/202872867-30e4865c-fb0a-4152-b35d-58f521a44d53.png)
+  ![snake gif](https://github.com/FrancoEdu/Franco/blob/output/github-contribution-grid-snake.gif)
 - 🧑‍💻 Nowadays I work with IT Support Technician at National Energy and Materials Research Center(CNPEM)
 - 💻 I’m currently learning Java, SpringBoot, Spring Data MongoDB, JPA / Hibernate, JavaFX and JDBC
 - 🎓 I’m technical degree in systems development at COTUCA - UNICAMP
