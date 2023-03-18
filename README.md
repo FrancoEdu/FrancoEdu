@@ -1,4 +1,4 @@
-<h1 align="center" >Hello  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"></h1>
+<h1 align="center" >Hello  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> ! </h1>
 
   ![i-07](https://user-images.githubusercontent.com/84602524/202872867-30e4865c-fb0a-4152-b35d-58f521a44d53.png)
  
@@ -17,7 +17,7 @@
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=FrancoEdu&show_icons=true&theme=react&include_all_commits=true&count_private=true&hide_border=true"/>
   </div>
   
-  ## My Stacks🎲
+  ## My Stacks 🎲
   <div align="center">
    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg" width="100"/>      
    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="100"/>      
@@ -29,7 +29,7 @@
    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg" width="100"/>     
   </div>
   
-  ## :speech_balloon: Vamos conversar  
+  ## Vamos conversar :speech_balloon:
   Você pode me encontrar em qualquer uma das minhas redes sociais abaixo! 
   <div> 
     <a href="https://www.instagram.com/franc0du/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
