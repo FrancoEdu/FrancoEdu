@@ -5,7 +5,7 @@
   ## About me 🙋🏽‍♂️
 - Nowadays I work with IT Support Technician at National Energy and Materials Research Center(CNPEM)
 - I’m currently learning Java, SpringBoot, Spring Data MongoDB
-- In the future I want to learn all the techniques and tools for web development, like javaScript, Node.js, HTML, CSS and ReactJS
+- In the future I want to learn all the techniques and tools for web development, like , Typescript, Javascript, Node.js, ReactJS, Next.js, Vue.js, Vite
 - I’m technical degree in systems development at COTUCA - UNICAMP
 - Studying Computer Engineering at UNISAL
 - I love to travel, spend time with friends and family and have a great barbecue.
