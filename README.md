@@ -4,7 +4,6 @@
  
   ## About me 🙋🏽‍♂️
 - Nowadays I work with IT Support Technician at National Energy and Materials Research Center(CNPEM)
-- I’m currently learning Java, SpringBoot, Spring Data MongoDB
 - In the future I want to learn all the techniques and tools for web development, like , Typescript, Javascript, Node.js, ReactJS, Next.js, Vue.js, Vite
 - I’m technical degree in systems development at COTUCA - UNICAMP
 - Studying Computer Engineering at UNISAL
@@ -13,8 +12,7 @@
   ## Statistics 📈
   <div align="center">
     <a href="https://github.com/FrancoEdu">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FrancoEdu&layout=compact&langs_count=7&theme=react&hide_border=true"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=FrancoEdu&show_icons=true&theme=react&include_all_commits=true&count_private=true&hide_border=true"/>
+    [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FrancoEdu&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
   </div>
   
   ## My Stacks 🎲
