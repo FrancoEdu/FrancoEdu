@@ -31,8 +31,8 @@
    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg" width="100"/>     
   </div>
   
-  ## Vamos conversar :speech_balloon:
-  Você pode me encontrar em qualquer uma das minhas redes sociais abaixo! 
+  ## Let´s Talk :speech_balloon:
+  You can find me on social media bellow 
   <div> 
     <a href="https://www.instagram.com/franc0du/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
    <a href="https://discord.com/channels/fran0du" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
