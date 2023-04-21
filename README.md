@@ -14,6 +14,10 @@
       <a href="https://github.com/anuraghazra/github-readme-stats">
         <img align="center" src="https://github-readme-stats.vercel.app/api?username=FrancoEdu&show_icons=true&theme=dracula" />
       </a>
+      <a href="https://github.com/anuraghazra/github-readme-stats">
+        <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=FrancoEdu" />
+      </a>
+      
   </div>
   
   ## My Stacks 🎲
