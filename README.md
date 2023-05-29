@@ -7,16 +7,8 @@
 - I’m technical degree in systems development at COTUCA - UNICAMP
 - Studying Computer Engineering at UNISAL
 - I love to travel, spend time with friends and family and have a great barbecue.
-
-  ## Statistics 📈
-  <div align="center">
-      <a href="https://github.com/anuraghazra/github-readme-stats">
-        <img align="center" src="https://github-readme-stats.vercel.app/api?username=FrancoEdu&show_icons=true&theme=dracula" />
-      </a>      
-  </div>
-  
   ## My Stacks 🎲
-  <div align="center">
+<div align="center">
    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg" width="100"/>      
    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="100"/>      
    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="100"/>
@@ -25,7 +17,7 @@
    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="100"/>
    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" width="100"/>
    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg" width="100"/>     
-  </div>
+</div>
   
   ## Let´s Talk :speech_balloon:
   You can find me on social media bellow 
