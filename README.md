@@ -3,13 +3,12 @@
   ![i-07](https://user-images.githubusercontent.com/84602524/202872867-30e4865c-fb0a-4152-b35d-58f521a44d53.png)
  
   ## About me 🙋🏽‍♂️
-- I'm Full Stack Developer, on my work days I use Typescript, Javascript, Node.js, ReactJS, Angular and .NET
+- I'm Full Stack Developer, on my work days I use Typescript, Javascript, Angular and .NET
 - I’m technical degree in systems development at COTUCA - UNICAMP
 - Studying Computer Engineering at UNISAL
 - I love to travel, spend time with friends and family and have a great barbecue.
   ## My Stacks 🎲
 <div align="center">
-   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg" width="100"/>
    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" width="100"/>
    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" width="100"/>
    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="100"/>
