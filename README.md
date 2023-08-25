@@ -1,6 +1,6 @@
 <h1 align="center" >Hello  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> ! </h1>
 
-  ![i-07](https://user-images.githubusercontent.com/84602524/202872867-30e4865c-fb0a-4152-b35d-58f521a44d53.png)
+  ![mario coding](https://i.imgur.com/1ZvVkDc.gif)
  
   ## About me 🙋🏽‍♂️
 - I'm Full Stack Developer, on my work days I use Typescript, Javascript, Angular and .NET
