@@ -5,7 +5,7 @@
   ## About me 🙋🏽‍♂️
 - I'm Full Stack Developer, on my work days I use Typescript, Angular, .NET and Ionic
 - I’m technical degree in systems development at COTUCA - UNICAMP
-- Studying Computer Engineering at UNISAL
+- Studying Management Information Technology at Fatec - Campinas
 - I love to travel, spend time with friends and family and have a great barbecue.
   ## My Stacks 🎲
 <div align="center">
