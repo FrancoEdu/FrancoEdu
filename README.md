@@ -3,9 +3,9 @@
   ![mario coding](https://i.imgur.com/1ZvVkDc.gif)
  
   ## About me 🙋🏽‍♂️
-- I'm Full Stack Developer, on my work days I use Typescript, Angular, .NET and Ionic
+- I'm Backend Developer, on my work days I use C#/.NET, EF, DAPPER, SQL SERVER, AZURE
 - I’m technical degree in systems development at COTUCA - UNICAMP
-- Studying Management Information Technology at Fatec - Campinas
+- Studying Management Information Technology at FATEC - Campinas
 - I love to travel, spend time with friends and family and have a great barbecue.
   ## My Stacks 🎲
 <div align="center">
